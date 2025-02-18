@@ -13,6 +13,5 @@ public class Convencao {
         int idade = 10;
 
         System.out.println("A idade digitada é de " + idade + " anos.");
-        
     }
 }
