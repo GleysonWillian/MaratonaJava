@@ -7,4 +7,3 @@ public class strings {
         System.out.println(nome);
     }
 }
- 
