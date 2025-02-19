@@ -1,4 +1,5 @@
-public class DeclaracaoDeTamanho {
+package br.devdojo.variaveis;
+public class declaracaodedamanho {
     public static void main(String[] args) {
         int idade = 10; // 4 bytes
         long numero = 100000; // 8 bytes

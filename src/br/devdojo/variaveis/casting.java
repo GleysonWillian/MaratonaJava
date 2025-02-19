@@ -1,4 +1,8 @@
-public class Casting {
+package br.devdojo.variaveis;
+
+import br.devdojo.variaveis.convencao;
+
+public class casting {
     public static void main(String[] args) {
         int idade = (int)10000000000L; // 4 bytes
         long numero = 100000; // 8 bytes
@@ -19,6 +23,9 @@ public class Casting {
         System.out.println(idadeShort);
         System.out.println(salarioFloat);
         System.out.println(numero);
+
+        convencao c = new convencao();
+        c.somar();
         
     }
 }
