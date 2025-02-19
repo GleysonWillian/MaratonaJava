@@ -33,5 +33,6 @@ public class atribuicao {
 
         int contador2 = 0;
         System.out.println(++contador2);
+        System.out.println(contador);
     }
 }
