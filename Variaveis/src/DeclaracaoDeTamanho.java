@@ -13,6 +13,11 @@ public class DeclaracaoDeTamanho {
         System.out.println(idade);
         System.out.println(verdadeiro);
         System.out.println(salarioDouble);
-        System.out.println(idade);
+        System.out.println(falso);
+        System.out.println(caractere);
+        System.out.println(idadeByte);
+        System.out.println(idadeShort);
+        System.out.println(salarioFloat);
+        System.out.println(numero);
     }
 }
