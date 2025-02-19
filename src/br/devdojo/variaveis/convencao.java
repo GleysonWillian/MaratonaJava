@@ -19,4 +19,5 @@ public class convencao {
     public void somar(){
         System.out.println("Somei");
     }
+    
 }
