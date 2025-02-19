@@ -1,6 +1,5 @@
 package br.devdojo.variaveis;
 
-import br.devdojo.variaveis.convencao;
 
 public class casting {
     public static void main(String[] args) {
@@ -23,9 +22,6 @@ public class casting {
         System.out.println(idadeShort);
         System.out.println(salarioFloat);
         System.out.println(numero);
-
-        convencao c = new convencao();
-        c.somar();
         
     }
 }
