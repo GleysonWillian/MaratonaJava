@@ -6,6 +6,7 @@
  * int
  * double
  * float
+ * char
 */
 
 public class Convencao {
