@@ -9,7 +9,6 @@ public class While {
          *      variavel = variavel + 1 ou -1;
          * }
          */
-
         int count = 5;
         while (count < 10) {
             System.out.println(count);
