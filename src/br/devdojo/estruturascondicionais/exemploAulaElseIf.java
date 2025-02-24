@@ -16,6 +16,7 @@ public class exemploAulaElseIf {
         } else {
             categoria = ("Categoria adulto");
         }
+        
         System.out.println(categoria);
     }
 }
