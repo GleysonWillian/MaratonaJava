@@ -1,6 +1,6 @@
 package br.devdojo.arrays;
 
-public class padroes_arrays {
+public class padroes_arrays_pt2 {
     public static void main(String[] args) {
         /*padrão de inicialização:
          * byte, short, int, long, float e double = 0
